@@ -1,5 +1,5 @@
+.github/workflows/actions.yml
 .gitignore
-.openapi-generator-ignore
 README.md
 TodoApi.md
 apis/TodoApi.ts
