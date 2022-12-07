@@ -1,4 +1,4 @@
-## @jmurphyau/example-api-client@v3.2.0
+## @jmurphyau/example-api-client@v3.2.1
 
 This generator creates TypeScript/JavaScript client that utilizes fetch-api.
 
@@ -21,7 +21,7 @@ navigate to the folder of your consuming project and run one of the following co
 _published:_
 
 ```
-npm install @jmurphyau/example-api-client@v3.2.0 --save
+npm install @jmurphyau/example-api-client@v3.2.1 --save
 ```
 
 _unPublished (not recommended):_
