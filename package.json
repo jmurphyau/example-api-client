@@ -1,6 +1,6 @@
 {
   "name": "@jmurphyau/example-api-client",
-  "version": "v2.8.0",
+  "version": "v3.0.0",
   "description": "OpenAPI client for @jmurphyau/example-api-client",
   "author": "OpenAPI-Generator Contributors",
   "repository": {
