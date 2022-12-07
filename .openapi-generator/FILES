@@ -1,5 +1,6 @@
 .github/workflows/actions.yml
 .gitignore
+.npmrc
 README.md
 TodoApi.md
 apis/TodoApi.ts
